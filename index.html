@@ -326,57 +326,94 @@ async function loadLeads(){
 }
 for(const id of ['leadsearch','leadstage','leads'])document.getElementById(id).addEventListener(id==='leadsearch'?'input':'change',sfUpdateLeads);
 
-// Ryhti + Hilma -laajennus, 6.11.2026. Erillään pilottihankkeista.
+// Ryhti: ruutuihin perustuva selainpuolen klusterointi (ei MapLibre-worker-klusterointia).
 const sfRyhtiEmpty={type:'FeatureCollection',features:[]};
-let sfRyhtiLoaded=0;
+let sfRyhtiLoaded=0, sfRyhtiFeatures=[], sfRyhtiReady=false;
+const sfRyhtiSource='sf-ryhti-display';
+function sfRyhtiUpdate(){
+ if(!sfRyhtiReady||!map?.getSource(sfRyhtiSource))return;
+ const source=map.getSource(sfRyhtiSource);
+ if(!document.getElementById('sfryhti').checked){source.setData(sfRyhtiEmpty);return;}
+ const zoom=map.getZoom(), width=map.getCanvas().width / (window.devicePixelRatio||1),height=map.getCanvas().height / (window.devicePixelRatio||1);
+ // Klusterit 52 pikselin ruuduissa. Lähellä (zoom >= 15) jokainen kohde näkyy erikseen.
+ const cell=52, groups=new Map(), out=[];
+ for(const f of sfRyhtiFeatures){
+  const c=f.geometry?.coordinates;if(!c)continue;
+  const p=map.project(c);if(p.x < -cell||p.y < -cell||p.x > width+cell||p.y > height+cell)continue;
+  if(zoom>=15){out.push(f);continue;}
+  const key=Math.floor(p.x/cell)+','+Math.floor(p.y/cell);
+  let g=groups.get(key);
+  if(!g){g={n:0,lng:0,lat:0,first:f};groups.set(key,g)}
+  g.n++;g.lng+=c[0];g.lat+=c[1];
+ }
+ for(const g of groups.values()){
+  if(g.n===1){out.push(g.first);continue;}
+  out.push({type:'Feature',geometry:{type:'Point',coordinates:[g.lng/g.n,g.lat/g.n]},properties:{sf_cluster:true,point_count:g.n}});
+ }
+ source.setData({type:'FeatureCollection',features:out});
+}
 async function sfLoadRyhti(){
  const status=document.getElementById('sfryhtistatus');
+ // Luodaan yksi karttalähde ilman MapLibren sisäistä klusterointia.
+ map.addSource(sfRyhtiSource,{type:'geojson',data:sfRyhtiEmpty});
+ map.addLayer({id:'sf-ryhti-clusters',type:'circle',source:sfRyhtiSource,
+  filter:['==',['get','sf_cluster'],true],
+  paint:{'circle-color':'#00cfe7','circle-radius':['step',['get','point_count'],13,10,16,50,19,250,22,1000,25],
+   'circle-opacity':0.92,'circle-stroke-color':'#073143','circle-stroke-width':1.5}});
+ map.addLayer({id:'sf-ryhti-count',type:'symbol',source:sfRyhtiSource,
+  filter:['==',['get','sf_cluster'],true],
+  layout:{'text-field':['to-string',['get','point_count']],'text-size':11,'text-allow-overlap':true},
+  paint:{'text-color':'#062634'}});
+ map.addLayer({id:'sf-ryhti-points',type:'circle',source:sfRyhtiSource,
+  filter:['!=',['get','sf_cluster'],true],
+  paint:{'circle-color':'#00d9ef','circle-radius':['interpolate',['linear'],['zoom'],4,2,7,2.8,10,4,14,5.5],
+   'circle-opacity':0.9,'circle-stroke-color':'#073143','circle-stroke-width':0.5}});
+ map.on('click','sf-ryhti-clusters',e=>{
+  const f=e.features?.[0];if(!f)return;
+  map.easeTo({center:f.geometry.coordinates,zoom:Math.min(map.getZoom()+2.5,16),duration:650});
+ });
+ map.on('click','sf-ryhti-points',e=>{
+  const f=e.features?.[0];if(!f)return;const p=f.properties||{};
+  const el=document.createElement('div');el.className='leadpopup';
+  const h=document.createElement('h3');h.textContent='Ryhti · rakennuslupa';el.append(h);
+  const lines=[['Lupapäätös',p.decision_date],['Kuntanumero',p.municipality_number],['Kerrosala',p.gross_floor_area!=null?p.gross_floor_area+' m²':null],['Kerrokset',p.number_of_storeys],['Aloituspäivä',p.start_date],['Valmistumispäivä',p.completion_date],['Rakennustunnus',p.building_key]];
+  for(const [label,val] of lines){if(val==null||val==='')continue;const div=document.createElement('p');div.textContent=label+': '+val;el.append(div)}
+  const note=document.createElement('p');note.className='muted';note.textContent='Rakennuslupa, ei vahvistettu aktiivinen työmaa. Ei yhteyshenkilötietoa.';el.append(note);
+  new maplibregl.Popup({maxWidth:'340px'}).setLngLat(f.geometry.coordinates).setDOMContent(el).addTo(map);
+ });
+ for(const id of ['sf-ryhti-clusters','sf-ryhti-points']){
+  map.on('mouseenter',id,()=>map.getCanvas().style.cursor='pointer');
+  map.on('mouseleave',id,()=>map.getCanvas().style.cursor='');
+ }
+ map.on('moveend',sfRyhtiUpdate);
+ map.on('resize',sfRyhtiUpdate);
+ document.getElementById('sfryhti').addEventListener('change',sfRyhtiUpdate);
  const files=[1,2,3,4].map(i=>'./suomiflow_ryhti_'+i+'.geojson');
- const results=await Promise.allSettled(files.map(async(file,i)=>{
+ const results=await Promise.allSettled(files.map(async file=>{
   const r=await fetch(file);if(!r.ok)throw Error(file+': HTTP '+r.status);
   const d=await r.json();if(d.type!=='FeatureCollection'||!Array.isArray(d.features))throw Error('Virheellinen GeoJSON: '+file);
-  const src='sf-ryhti-src-'+i;
-   // Ei klusterointia: pisteet piirretään suoraan, kuten toimivassa konsolitestissä.
-  map.addSource(src,{type:'geojson',data:d});
-   const pt='sf-ryhti-point-'+i;
-   map.addLayer({id:pt,type:'circle',source:src,
-     paint:{'circle-color':'#00d9ef',
-       'circle-radius':['interpolate',['linear'],['zoom'],4,2,7,2.8,10,4,14,5.5],
-       'circle-opacity':0.85,
-       'circle-stroke-color':'#073143',
-       'circle-stroke-width':0.5}});
-  map.on('click',pt,e=>{const f=e.features?.[0];if(!f)return;const p=f.properties||{};const el=document.createElement('div');el.className='leadpopup';const h=document.createElement('h3');h.textContent='Ryhti · rakennuslupa';el.append(h);
-   const lines=[['Lupapäätös',p.decision_date],['Kuntanumero',p.municipality_number],['Kerrosala',p.gross_floor_area!=null?p.gross_floor_area+' m²':null],['Kerrokset',p.number_of_storeys],['Aloituspäivä',p.start_date],['Valmistumispäivä',p.completion_date],['Rakennustunnus',p.building_key]];
-   for(const [label,val] of lines){if(val==null||val==='')continue;const div=document.createElement('p');div.textContent=label+': '+val;el.append(div)}
-   const note=document.createElement('p');note.className='muted';note.textContent='Rakennuslupa, ei vahvistettu aktiivinen työmaa. Ei yhteyshenkilötietoa.';el.append(note);
-   new maplibregl.Popup({maxWidth:'340px'}).setLngLat(f.geometry.coordinates).setDOMContent(el).addTo(map)});
-   map.on('mouseenter',pt,()=>map.getCanvas().style.cursor='pointer');map.on('mouseleave',pt,()=>map.getCanvas().style.cursor='');
-  sfRyhtiLoaded+=d.features.length;
-   setVisibility(pt,document.getElementById('sfryhti').checked);
-  sfBringRyhtiForward();
-  return d.features.length;
+  return d.features.filter(f=>f.geometry?.type==='Point');
  }));
- const failed=results.filter(x=>x.status==='rejected');
- status.textContent=sfRyhtiLoaded.toLocaleString('fi-FI')+' rakennuslupapistettä ladattu karttatasoihin'+(failed.length?' · '+failed.length+' tiedostoa puuttuu':'')+'.';
- if(failed.length)console.warn('Ryhti latausvirheet',failed.map(x=>x.reason));
+ for(const r of results)if(r.status==='fulfilled')sfRyhtiFeatures.push(...r.value);
+ sfRyhtiLoaded=sfRyhtiFeatures.length;
+ sfRyhtiReady=true;
+ sfRyhtiUpdate();
+ const failed=results.filter(r=>r.status==='rejected');
+ status.textContent=sfRyhtiLoaded.toLocaleString('fi-FI')+' rakennuslupaa ladattu · klikkaa numeropalloa zoomataksesi'+(failed.length?' · '+failed.length+' tiedostoa puuttuu':'')+'.';
+ if(failed.length)console.warn('Ryhti latausvirheet',failed.map(r=>r.reason));
 }
-// Pidetään Ryhti-kerrokset liikenne- ja muiden karttatasojen yläpuolella.
-// Muut karttatasot latautuvat asynkronisesti ja voivat muuten peittää pisteet.
+// Muut asynkroniset karttatasot voivat tulla myöhemmin: pidetään Ryhti niiden yläpuolella.
 function sfBringRyhtiForward(){
  if(!map||!map.isStyleLoaded())return;
- const ids=[];
- for(let i=0;i<4;i++)for(const suffix of ['cluster','count','point']){
-  const id='sf-ryhti-'+suffix+'-'+i;
-  if(map.getLayer(id))ids.push(id);
- }
- if(!ids.length)return;
- const order=(map.getStyle().layers||[]).map(l=>l.id);
- const atEnd=order.slice(-ids.length);
- if(ids.every((id,i)=>id===atEnd[i]))return;
- for(const id of ids)map.moveLayer(id);
+ for(const id of ['sf-ryhti-clusters','sf-ryhti-count','sf-ryhti-points'])if(map.getLayer(id))map.moveLayer(id);
 }
-map?.on('idle',sfBringRyhtiForward);
-document.getElementById('sfryhti').addEventListener('change',e=>{for(let i=0;i<4;i++)setVisibility('sf-ryhti-point-'+i,e.target.checked)});
+// Siirretään vain, jos jokin muu taso on tullut Ryhdin päälle; vältetään idle-silmukka.
+map?.on('idle',()=>{
+ const ids=['sf-ryhti-clusters','sf-ryhti-count','sf-ryhti-points'];
+ if(!map?.isStyleLoaded()||!ids.every(id=>map.getLayer(id)))return;
+ const order=map.getStyle().layers.map(l=>l.id);
+ if(!ids.every((id,i)=>order[order.length-ids.length+i]===id))sfBringRyhtiForward();
+});
 let sfHilmaRows=[];
 function sfRenderHilma(){
  const q=document.getElementById('sfhilmasearch').value.trim().toLowerCase();
