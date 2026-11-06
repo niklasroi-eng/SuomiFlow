@@ -1,73 +1,8 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "description": "Pilottihankkeet; sijainnit vain kaupunkitasoisia viitteellisiä pisteitä, ei tonttikoordinaatteja. Vaiheet ja yhteystiedot tarkistettava."
+    "description": "Ei tekaistuja hankkeita. Aja ryhti_import.py ennen julkaisua.",
+    "source": "Ryhti / SYKE"
   },
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.46,
-          60.99
-        ]
-      },
-      "properties": {
-        "name": "MORE – puurakenteinen teollisuuskeskittymä",
-        "city": "Hämeenlinna",
-        "stage": "Suunnitteilla",
-        "company": "SRV",
-        "description": "Suunnitelma pääosin puurakenteisista tuotanto- ja logistiikkarakennuksista. Toteutuksen ajantasaisuus varmistettava.",
-        "fit": "Mahdolliset palkkikengät, kulmalevyt ja erikoisliitokset; ei vahvistettu tarve.",
-        "contact": "Henri Kiiski",
-        "contactRole": "hanketiedotteen yhteyshenkilö, ei vahvistettu ostaja",
-        "email": "henri.kiiski@srv.fi",
-        "phone": "040 184 0902",
-        "source": "https://www.srv.fi/srv-yrityksena/ajankohtaista/lehdistotiedote/suomen-ensimmainen-puurakenteinen-teollisuuskeskittyma-suunnitteilla-hameenlinnan-moreyritysalueelle-energiaomavaraiset-tilat-uuden-liittyman-aarelle/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.83,
-          61.9
-        ]
-      },
-      "properties": {
-        "name": "Kesälahden koulu ja päiväkoti",
-        "city": "Kitee / Kesälahti",
-        "stage": "Suunnitteilla",
-        "company": "Lujatalo",
-        "description": "Hirsirakenteinen koulu- ja päiväkotihanke; ilmoitettu rakentamisen aloitus joulukuussa 2026.",
-        "fit": "Hirsirakenteiden liitososat mahdollisia; tuotehankinnat selvitettävä.",
-        "contact": "Mikko Seppä",
-        "contactRole": "aluejohtaja, tiedotteen yhteyshenkilö",
-        "email": "mikko.seppa@luja.fi",
-        "phone": "044 585 2688",
-        "source": "https://www.lujatalo.fi/ajankohtaista/2026/11/05/lujatalo-on-voittanut-koulu-ja-paivakotihankkeen-rakentamisen-kiteella-kesalahdelle-nousee-uusi-koulurakennus/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.11,
-          60.28
-        ]
-      },
-      "properties": {
-        "name": "Päiväkoti Silva",
-        "city": "Vantaa / Hakunila",
-        "stage": "Rakenteilla",
-        "company": "SRV",
-        "description": "CLT-runkoinen päiväkotihanke, jonka rakentaminen alkoi 2026. Runko-osien hankinnat voivat olla jo tehty.",
-        "fit": "Puurakenteiden kiinnikkeet mahdollisia, mutta ajoitus saattaa olla myöhäinen.",
-        "source": "https://www.srv.fi/srv-yrityksena/ajankohtaista/lehdistotiedote/srv-toteuttaa-puurakenteisen-paivakodin-210-lapselle-vantaan-hakunilaan"
-      }
-    }
-  ]
+  "features": []
 }
