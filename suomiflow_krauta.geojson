@@ -1,0 +1,2631 @@
+{
+  "type": "FeatureCollection",
+  "name": "SuomiFlow K-Rauta – sijainnit vahvistamatta",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0934132,
+          60.3045684
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta 75 Vantaa",
+        "street": "Vanha Porvoontie 243",
+        "postcode": "01380",
+        "city": "Vantaa",
+        "address": "Vanha Porvoontie 243, 01380 Vantaa",
+        "phone": "020 7757575",
+        "website": "https://www.k-rauta.fi/myymalat/75",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8012003,
+          63.0210322
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Alajärvi",
+        "street": "Alajärventie 14",
+        "postcode": "62900",
+        "city": "Alajärvi",
+        "address": "Alajärventie 14, 62900 Alajärvi",
+        "phone": "065572524",
+        "website": "https://www.k-rauta.fi/myymalat/alajarvi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.610614,
+          62.5909863
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Alavus",
+        "street": "Kolistontie 13",
+        "postcode": "63300",
+        "city": "Alavus",
+        "address": "Kolistontie 13, 63300 Alavus",
+        "phone": "0207129550",
+        "website": "https://www.k-rauta.fi/myymalat/alavus",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6552392,
+          60.2151663
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Espoon keskus",
+        "street": "Nimismiehenpelto 3",
+        "postcode": "02770",
+        "city": "Espoo",
+        "address": "Nimismiehenpelto 3, 02770 Espoo",
+        "phone": "09348381",
+        "website": "https://www.k-rauta.fi/myymalat/espoonkeskus",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6256113,
+          60.8245915
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Forssa",
+        "street": "Lepistönkatu 1",
+        "postcode": "30100",
+        "city": "Forssa",
+        "address": "Lepistönkatu 1, 30100 Forssa",
+        "phone": "034240500",
+        "website": "https://www.k-rauta.fi/myymalat/forssa",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3244448,
+          63.749778
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Haapajärvi",
+        "street": "Vitikantie 4",
+        "postcode": "85800",
+        "city": "Haapajärvi",
+        "address": "Vitikantie 4, 85800 Haapajärvi",
+        "phone": "08764808",
+        "website": "https://www.k-rauta.fi/myymalat/haapajarvi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.43702546173506,
+          62.388149531833875
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Hankasalmi",
+        "street": "Keskustie 24",
+        "postcode": "41520",
+        "city": "Hankasalmi",
+        "address": "Keskustie 24, 41520 Hankasalmi",
+        "phone": "014-441111",
+        "website": "https://www.k-rauta.fi/myymalat/hankasalmi",
+        "location_status": "kayttajan_antama_tarkistamaton",
+        "coordinate_source": "Käyttäjän ilmoittamat Google Maps -koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.99313027120545,
+          59.83538495287153
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Hanko",
+        "street": "Lasitehtaankatu 3 A",
+        "postcode": "10960",
+        "city": "Hanko pohjoinen",
+        "address": "Lasitehtaankatu 3 A, 10960 Hanko pohjoinen",
+        "phone": "040 709 1039",
+        "website": "https://www.k-rauta.fi/myymalat/hanko",
+        "location_status": "kayttajan_antama_tarkistamaton",
+        "coordinate_source": "Käyttäjän ilmoittamat Google Maps -koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6789685,
+          61.0042189
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Holma",
+        "street": "Kiitokatu 1",
+        "postcode": "15210",
+        "city": "Lahti",
+        "address": "Kiitokatu 1, 15210 Lahti",
+        "phone": "0385700",
+        "website": "https://www.k-rauta.fi/myymalat/holma",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6808361,
+          61.1722202
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Huittinen",
+        "street": "Kauppiaskatu 1",
+        "postcode": "32700",
+        "city": "Huittinen",
+        "address": "Kauppiaskatu 1, 32700 Huittinen",
+        "phone": "0102302400",
+        "website": "https://www.k-rauta.fi/myymalat/huittinen",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8069148,
+          60.6239604
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Hyvinkää",
+        "street": "Mäkikuumolantie 5",
+        "postcode": "05800",
+        "city": "Hyvinkää",
+        "address": "Mäkikuumolantie 5, 05800 Hyvinkää",
+        "phone": "0293400300",
+        "website": "https://www.k-rauta.fi/myymalat/hyvinkaa",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8018599,
+          60.2712336
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Hämeenkylä",
+        "street": "Ainontie 5",
+        "postcode": "01630",
+        "city": "Vantaa",
+        "address": "Ainontie 5, 01630 Vantaa",
+        "phone": "0447006500",
+        "website": "https://www.k-rauta.fi/myymalat/hameenkyla",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4197518,
+          61.0066904
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Hämeenlinna",
+        "street": "Katsastusmiehentie 6",
+        "postcode": "13130",
+        "city": "Hämeenlinna",
+        "address": "Katsastusmiehentie 6, 13130 Hämeenlinna",
+        "phone": "03615551",
+        "website": "https://www.k-rauta.fi/myymalat/hameenlinna",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.542933384850237,
+          68.63814310610245
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Ivalo",
+        "street": "Ivalontie 71",
+        "postcode": "99800",
+        "city": "Ivalo",
+        "address": "Ivalontie 71, 99800 Ivalo",
+        "phone": "0207424070",
+        "website": "https://www.k-rauta.fi/myymalat/ivalo",
+        "location_status": "kayttajan_antama_tarkistamaton",
+        "coordinate_source": "Käyttäjän ilmoittamat Google Maps -koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7622288,
+          62.4886114
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Jalasjärvi",
+        "street": "Keskustie 31",
+        "postcode": "61600",
+        "city": "Jalasjärvi",
+        "address": "Keskustie 31, 61600 Jalasjärvi",
+        "phone": "050 586 5002",
+        "website": "https://www.k-rauta.fi/myymalat/jalasjarvi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.773415178327024,
+          62.62101975839144
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Joensuu",
+        "street": "Kaltimonkuja 4",
+        "postcode": "80100",
+        "city": "Joensuu",
+        "address": "Kaltimonkuja 4, 80100 Joensuu",
+        "phone": "0503112020",
+        "website": "https://www.k-rauta.fi/myymalat/joensuu",
+        "location_status": "kayttajan_antama_tarkistamaton",
+        "coordinate_source": "Käyttäjän ilmoittamat Google Maps -koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.097781,
+          61.7327016
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Joutsa",
+        "street": "Jousitie 2",
+        "postcode": "19650",
+        "city": "Joutsa",
+        "address": "Jousitie 2, 19650 Joutsa",
+        "phone": "0447350700",
+        "website": "https://www.k-rauta.fi/myymalat/joutsa",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.183727685685863,
+          61.85716808800881
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Jämsä",
+        "street": "Ekosentie 1",
+        "postcode": "42100",
+        "city": "Jämsä",
+        "address": "Ekosentie 1, 42100 Jämsä",
+        "phone": "0207768410",
+        "website": "https://www.k-rauta.fi/myymalat/jamsa",
+        "location_status": "kayttajan_antama_tarkistamaton",
+        "coordinate_source": "Käyttäjän ilmoittamat Google Maps -koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1142796,
+          60.4575716
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Järvenpää",
+        "street": "Rajaniitynkatu 1",
+        "postcode": "04420",
+        "city": "Järvenpää",
+        "address": "Rajaniitynkatu 1, 04420 Järvenpää",
+        "phone": "0207288500",
+        "website": "https://www.k-rauta.fi/myymalat/jarvenpaa",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7767431,
+          64.2112231
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kajaani",
+        "street": "Kehräämöntie 24",
+        "postcode": "87400",
+        "city": "Kajaani",
+        "address": "Kehräämöntie 24, 87400 Kajaani",
+        "phone": "08633170",
+        "website": "https://www.k-rauta.fi/myymalat/kajaani",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6307154,
+          61.989494
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kangasniemi",
+        "street": "Joutsantie 22",
+        "postcode": "51200",
+        "city": "Kangasniemi",
+        "address": "Joutsantie 22, 51200 Kangasniemi",
+        "phone": "0403101400",
+        "website": "https://www.k-rauta.fi/myymalat/kangasniemi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.379927203398157,
+          61.81637358426627
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kankaanpää",
+        "street": "Rautatienkatu 4",
+        "postcode": "38700",
+        "city": "Kankaanpää",
+        "address": "Rautatienkatu 4, 38700 Kankaanpää",
+        "phone": "02572900",
+        "website": "https://www.k-rauta.fi/myymalat/kankaanpaa",
+        "location_status": "kayttajan_antama_tarkistamaton",
+        "coordinate_source": "Käyttäjän ilmoittamat Google Maps -koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.652765,
+          60.0553232
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Karjaa",
+        "street": "Lepinpellonkatu 7",
+        "postcode": "10320",
+        "city": "Karjaa",
+        "address": "Lepinpellonkatu 7, 10320 Karjaa",
+        "phone": "01927931",
+        "website": "https://www.k-rauta.fi/myymalat/karjaa",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2372929,
+          60.5243753
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Karkkila",
+        "street": "Yrittäjäntie 24",
+        "postcode": "03600",
+        "city": "Karkkila",
+        "address": "Yrittäjäntie 24, 03600 Karkkila",
+        "phone": "0207552500",
+        "website": "https://www.k-rauta.fi/myymalat/karkkila",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1745667,
+          62.4343187
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kauhajoki",
+        "street": "Savikyläntie 15",
+        "postcode": "61800",
+        "city": "Kauhajoki",
+        "address": "Savikyläntie 15, 61800 Kauhajoki",
+        "phone": "0207562420",
+        "website": "https://www.k-rauta.fi/myymalat/kauhajoki",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8721856,
+          61.4764288
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kaukajärvi",
+        "street": "Juvankatu 4",
+        "postcode": "33710",
+        "city": "Tampere",
+        "address": "Juvankatu 4, 33710 Tampere",
+        "phone": "0207630880",
+        "website": "https://www.k-rauta.fi/myymalat/kaukajarvi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6791092,
+          63.5456121
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kaustinen",
+        "street": "Teerijärventie 40",
+        "postcode": "69600",
+        "city": "Kaustinen",
+        "address": "Teerijärventie 40, 69600 Kaustinen",
+        "phone": "0201986024",
+        "website": "https://www.k-rauta.fi/myymalat/kaustinen",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.34993206487603,
+          63.179899695715015
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Keitele",
+        "street": "Asematie 1",
+        "postcode": "72600",
+        "city": "Keitele",
+        "address": "Asematie 1, 72600 Keitele",
+        "phone": "0403000840",
+        "website": "https://www.k-rauta.fi/myymalat/keitele",
+        "location_status": "kayttajan_antama_tarkistamaton",
+        "coordinate_source": "Käyttäjän ilmoittamat Google Maps -koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.577592109245675,
+          65.74425327610416
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kemi",
+        "street": "Kivikonkatu 1",
+        "postcode": "94600",
+        "city": "Kemi",
+        "address": "Kivikonkatu 1, 94600 Kemi",
+        "phone": "0162156600",
+        "website": "https://www.k-rauta.fi/myymalat/kemi",
+        "location_status": "kayttajan_antama_tarkistamaton",
+        "coordinate_source": "Käyttäjän ilmoittamat Google Maps -koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.408036,
+          66.72113
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kemijärvi",
+        "street": "Varastotie 6 - 8",
+        "postcode": "98100",
+        "city": "Kemijärvi",
+        "address": "Varastotie 6 - 8, 98100 Kemijärvi",
+        "phone": "0102866770",
+        "website": "https://www.k-rauta.fi/myymalat/kemijarvi",
+        "location_status": "myymala_osuma_tarkistettava",
+        "coordinate_source": "OpenStreetMap / Nominatim (K-Rauta-niminen kohde)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7341537,
+          60.1649557
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kemiö",
+        "street": "Engelsbyntie 10",
+        "postcode": "25700",
+        "city": "Kemiö",
+        "address": "Engelsbyntie 10, 25700 Kemiö",
+        "phone": "010 739 3555",
+        "website": "https://www.k-rauta.fi/myymalat/kemio",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7224076,
+          62.25243
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Keuruu",
+        "street": "Mäntymäentie 2",
+        "postcode": "42700",
+        "city": "Keuruu",
+        "address": "Mäntymäentie 2, 42700 Keuruu",
+        "phone": "0207893600",
+        "website": "https://www.k-rauta.fi/myymalat/keuruu",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4264255,
+          60.1169508
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kirkkonummi",
+        "street": "Purokummuntie 2",
+        "postcode": "02400",
+        "city": "Kirkkonummi",
+        "address": "Purokummuntie 2, 02400 Kirkkonummi",
+        "phone": "044 700 6644",
+        "website": "https://www.k-rauta.fi/myymalat/kirkkonummi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.12140997035882,
+          62.10151851673006
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kitee",
+        "street": "Puhoksentie 3",
+        "postcode": "82500",
+        "city": "Kitee",
+        "address": "Puhoksentie 3, 82500 Kitee",
+        "phone": "0408330661",
+        "website": "https://www.k-rauta.fi/myymalat/kitee",
+        "location_status": "kayttajan_antama_tarkistamaton",
+        "coordinate_source": "Käyttäjän ilmoittamat Google Maps -koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.60403793555705,
+          63.64103272073058
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kiuruvesi",
+        "street": "Topintie 1",
+        "postcode": "74700",
+        "city": "Kiuruvesi",
+        "address": "Topintie 1, 74700 Kiuruvesi",
+        "phone": "0505792226",
+        "website": "https://www.k-rauta.fi/myymalat/kiuruvesi",
+        "location_status": "kayttajan_antama_tarkistamaton",
+        "coordinate_source": "Käyttäjän ilmoittamat Google Maps -koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7382613,
+          60.3910289
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Klaukkala",
+        "street": "Yrittäjäntie 10",
+        "postcode": "01800",
+        "city": "Klaukkala",
+        "address": "Yrittäjäntie 10, 01800 Klaukkala",
+        "phone": "09 348 477 00",
+        "website": "https://www.k-rauta.fi/myymalat/klaukkala",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1544469,
+          63.8316468
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kokkola",
+        "street": "Mottisenkatu 10",
+        "postcode": "67700",
+        "city": "Kokkola",
+        "address": "Mottisenkatu 10, 67700 Kokkola",
+        "phone": "0447230826",
+        "website": "https://www.k-rauta.fi/myymalat/kokkola",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9174482,
+          60.5052146
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kotka",
+        "street": "Jumalniementie 7",
+        "postcode": "48600",
+        "city": "Kotka",
+        "address": "Jumalniementie 7, 48600 Kotka",
+        "phone": "0447900900",
+        "website": "https://www.k-rauta.fi/myymalat/kotka",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6512923,
+          60.8767161
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kouvola",
+        "street": "Tervasharjunkatu 1",
+        "postcode": "45720",
+        "city": "Kuusankoski",
+        "address": "Tervasharjunkatu 1, 45720 Kuusankoski",
+        "phone": "0290304200",
+        "website": "https://www.k-rauta.fi/myymalat/kouvola",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.219717,
+          60.4933816
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kuninkoja",
+        "street": "Itäniityntie 9",
+        "postcode": "21280",
+        "city": "Raisio",
+        "address": "Itäniityntie 9, 21280 Raisio",
+        "phone": "0290074800",
+        "website": "https://www.k-rauta.fi/myymalat/kuninkoja",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.625449,
+          62.8727551
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kuopio",
+        "street": "Leväsentie 2",
+        "postcode": "70700",
+        "city": "Kuopio",
+        "address": "Leväsentie 2, 70700 Kuopio",
+        "phone": "0447630300",
+        "website": "https://www.k-rauta.fi/myymalat/kuopio",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.164865524605993,
+          65.95590286252585
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Kuusamo",
+        "street": "Luomantie 4",
+        "postcode": "93600",
+        "city": "Kuusamo",
+        "address": "Luomantie 4, 93600 Kuusamo",
+        "phone": "0207401040",
+        "website": "https://www.k-rauta.fi/myymalat/kuusamo",
+        "location_status": "kayttajan_kartalta_antama",
+        "coordinate_source": "Käyttäjän toimittamat koordinaatit (ei erikseen vahvistettu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7781491,
+          61.4532874
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Lahdesjärvi",
+        "street": "Leppästensuonkatu 2",
+        "postcode": "33840",
+        "city": "Tampere",
+        "address": "Leppästensuonkatu 2, 33840 Tampere",
+        "phone": "044 4700 500",
+        "website": "https://www.k-rauta.fi/myymalat/lahdesjarvi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.061681,
+          60.2104066
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Lanterna",
+        "street": "Varikkotie 2 b",
+        "postcode": "00880",
+        "city": "Helsinki",
+        "address": "Varikkotie 2 b, 00880 Helsinki",
+        "phone": "029 005 0200",
+        "website": "https://www.k-rauta.fi/myymalat/lanterna",
+        "location_status": "myymala_osuma_tarkistettava",
+        "coordinate_source": "OpenStreetMap / Nominatim (K-Rauta-niminen kohde)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4041511,
+          63.3537709
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Lapinlahti",
+        "street": "Asematie 83",
+        "postcode": "73100",
+        "city": "Lapinlahti",
+        "address": "Asematie 83, 73100 Lapinlahti",
+        "phone": "0400380007",
+        "website": "https://www.k-rauta.fi/myymalat/lapinlahti",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1984338,
+          61.0460028
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Lappeenranta",
+        "street": "Tullitie 2",
+        "postcode": "53500",
+        "city": "Lappeenranta",
+        "address": "Tullitie 2, 53500 Lappeenranta",
+        "phone": "05620811",
+        "website": "https://www.k-rauta.fi/myymalat/lappeenranta",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.52376463360093,
+          62.22782026146475
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Lappfjärd",
+        "street": "Hallvägen 1",
+        "postcode": "64300",
+        "city": "Lapväärtti",
+        "address": "Hallvägen 1, 64300 Lapväärtti",
+        "phone": "0407112060",
+        "website": "https://www.k-rauta.fi/myymalat/lappfjard",
+        "location_status": "kayttajan_kartalta_antama",
+        "coordinate_source": "Käyttäjän toimittamat koordinaatit (ei erikseen vahvistettu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0292359,
+          62.9732132
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Lapua",
+        "street": "Alangontie 4",
+        "postcode": "62100",
+        "city": "Lapua",
+        "address": "Alangontie 4, 62100 Lapua",
+        "phone": "064207610",
+        "website": "https://www.k-rauta.fi/myymalat/lapua",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6603462,
+          60.96664
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Laune",
+        "street": "Pohjoinen Liipolankatu 3",
+        "postcode": "15500",
+        "city": "Lahti",
+        "address": "Pohjoinen Liipolankatu 3, 15500 Lahti",
+        "phone": "0385700",
+        "website": "https://www.k-rauta.fi/myymalat/laune",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7689586,
+          62.4953403
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Leppävirta",
+        "street": "Teollisuustie 16",
+        "postcode": "79100",
+        "city": "Leppävirta",
+        "address": "Teollisuustie 16, 79100 Leppävirta",
+        "phone": "0400 997 365",
+        "website": "https://www.k-rauta.fi/myymalat/leppavirta",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8051889,
+          67.7891686
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Levi",
+        "street": "Tunturitie 1",
+        "postcode": "99130",
+        "city": "Sirkka",
+        "address": "Tunturitie 1, 99130 Sirkka",
+        "phone": "0207856770",
+        "website": "https://www.k-rauta.fi/myymalat/levi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0230435,
+          63.3166537
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Lieksa",
+        "street": "Energiatie 1",
+        "postcode": "81700",
+        "city": "Lieksa",
+        "address": "Energiatie 1, 81700 Lieksa",
+        "phone": "0407101100",
+        "website": "https://www.k-rauta.fi/myymalat/lieksa",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6580516,
+          61.5207399
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Lielahti",
+        "street": "Turvesuonkatu 10",
+        "postcode": "33400",
+        "city": "Tampere",
+        "address": "Turvesuonkatu 10, 33400 Tampere",
+        "phone": "03 433 1190",
+        "website": "https://www.k-rauta.fi/myymalat/lielahti",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.027079,
+          60.2237957
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Lohja",
+        "street": "Ojamonharjuntie 86",
+        "postcode": "08200",
+        "city": "Lohja",
+        "address": "Ojamonharjuntie 86, 08200 Lohja",
+        "phone": "019357511",
+        "website": "https://www.k-rauta.fi/myymalat/lohja",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0439628,
+          60.8555592
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Loimaa",
+        "street": "Aleksis Kiven Katu 9",
+        "postcode": "32200",
+        "city": "Loimaa",
+        "address": "Aleksis Kiven Katu 9, 32200 Loimaa",
+        "phone": "027625100",
+        "website": "https://www.k-rauta.fi/myymalat/loimaa",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.221441680025553,
+          60.45276541022008
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Loviisa",
+        "street": "Seppäläntie 53",
+        "postcode": "07900",
+        "city": "Loviisa",
+        "address": "Seppäläntie 53, 07900 Loviisa",
+        "phone": "",
+        "website": "https://www.k-rauta.fi/myymalat/loviisa",
+        "location_status": "kayttajan_kartalta_antama",
+        "coordinate_source": "Käyttäjän toimittamat koordinaatit (ei erikseen vahvistettu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.458359239563837,
+          60.63046166506992
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Läyliäinen",
+        "street": "Parkkaajantie 4",
+        "postcode": "12600",
+        "city": "Läyliäinen",
+        "address": "Parkkaajantie 4, 12600 Läyliäinen",
+        "phone": "020 7552 550",
+        "website": "https://www.k-rauta.fi/myymalat/layliainen",
+        "location_status": "kayttajan_kartalta_antama",
+        "coordinate_source": "Käyttäjän toimittamat koordinaatit (ei erikseen vahvistettu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.052745,
+          60.2443312
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Malmi",
+        "street": "Kankiraudantie 6",
+        "postcode": "00700",
+        "city": "Helsinki",
+        "address": "Kankiraudantie 6, 00700 Helsinki",
+        "phone": "0207530500",
+        "website": "https://www.k-rauta.fi/myymalat/malmi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2043738,
+          63.5502924
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Masa",
+        "street": "Kivirannantie 8",
+        "postcode": "74130",
+        "city": "Iisalmi",
+        "address": "Kivirannantie 8, 74130 Iisalmi",
+        "phone": "044 762 1048",
+        "website": "https://www.k-rauta.fi/myymalat/masa",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7067916,
+          60.1634499
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Merituuli",
+        "street": "Finnoonlaaksontie 9",
+        "postcode": "02270",
+        "city": "Espoo",
+        "address": "Finnoonlaaksontie 9, 02270 Espoo",
+        "phone": "0447006600",
+        "website": "https://www.k-rauta.fi/myymalat/merituuli",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2871386,
+          61.6958938
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Mikkeli",
+        "street": "Juvantie 1",
+        "postcode": "50170",
+        "city": "Mikkeli",
+        "address": "Juvantie 1, 50170 Mikkeli",
+        "phone": "0207600200",
+        "website": "https://www.k-rauta.fi/myymalat/mikkeli",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9962676,
+          64.8072803
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Muhos",
+        "street": "Valtatie 17",
+        "postcode": "91500",
+        "city": "Muhos",
+        "address": "Valtatie 17, 91500 Muhos",
+        "phone": "0207280100",
+        "website": "https://www.k-rauta.fi/myymalat/muhos",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.298180980037632,
+          60.626597412657475
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Mäntsälä",
+        "street": "Maisalantie 21",
+        "postcode": "04600",
+        "city": "Mäntsälä",
+        "address": "Maisalantie 21, 04600 Mäntsälä",
+        "phone": "0196893800",
+        "website": "https://www.k-rauta.fi/myymalat/mantsala",
+        "location_status": "kayttajan_kartalta_antama",
+        "coordinate_source": "Käyttäjän toimittamat koordinaatit (ei erikseen vahvistettu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56552411824168,
+          62.03204154469822
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Mänttä",
+        "street": "Isonevantie 2",
+        "postcode": "35800",
+        "city": "Mänttä",
+        "address": "Isonevantie 2, 35800 Mänttä",
+        "phone": "044 7977 502",
+        "website": "https://www.k-rauta.fi/myymalat/mantta",
+        "location_status": "kayttajan_kartalta_antama",
+        "coordinate_source": "Käyttäjän toimittamat koordinaatit (ei erikseen vahvistettu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8812501,
+          61.4352703
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Mäntyharju",
+        "street": "Nokiantie 1",
+        "postcode": "52700",
+        "city": "Mäntyharju",
+        "address": "Nokiantie 1, 52700 Mäntyharju",
+        "phone": "0447520040",
+        "website": "https://www.k-rauta.fi/myymalat/mantyharju",
+        "location_status": "myymala_osuma_tarkistettava",
+        "coordinate_source": "OpenStreetMap / Nominatim (K-Rauta-niminen kohde)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0856693,
+          63.2024772
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Nilsiä",
+        "street": "Nilsiäntie 69",
+        "postcode": "73300",
+        "city": "Nilsiä",
+        "address": "Nilsiäntie 69, 73300 Nilsiä",
+        "phone": "0105385200",
+        "website": "https://www.k-rauta.fi/myymalat/nilsia",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9550117,
+          63.9366042
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Nivala",
+        "street": "Hanketie 4",
+        "postcode": "85500",
+        "city": "Nivala",
+        "address": "Hanketie 4, 85500 Nivala",
+        "phone": "084458500",
+        "website": "https://www.k-rauta.fi/myymalat/nivala",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.482031710787783,
+          61.47607264818998
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Nokia",
+        "street": "Rounionkatu 1",
+        "postcode": "37140",
+        "city": "Nokia",
+        "address": "Rounionkatu 1, 37140 Nokia",
+        "phone": "0102302400",
+        "website": "https://www.k-rauta.fi/myymalat/nokia",
+        "location_status": "kayttajan_kartalta_antama",
+        "coordinate_source": "Käyttäjän toimittamat koordinaatit (ei erikseen vahvistettu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3304107,
+          60.3341834
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Nummela",
+        "street": "Papulintie 3",
+        "postcode": "03100",
+        "city": "Nummela",
+        "address": "Papulintie 3, 03100 Nummela",
+        "phone": "044 700 6601",
+        "website": "https://www.k-rauta.fi/myymalat/nummela",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9501306,
+          64.2627534
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Ojan Rauta Kalajoki",
+        "street": "Merenojantie 4",
+        "postcode": "85100",
+        "city": "Kalajoki",
+        "address": "Merenojantie 4, 85100 Kalajoki",
+        "phone": "0447997300",
+        "website": "https://www.k-rauta.fi/myymalat/ojan-rauta-kalajoki",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5437483,
+          64.9052505
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Ojan Rauta Kempele",
+        "street": "Myllytie 2",
+        "postcode": "90450",
+        "city": "Kempele",
+        "address": "Myllytie 2, 90450 Kempele",
+        "phone": "0447997400",
+        "website": "https://www.k-rauta.fi/myymalat/ojan-rauta-kempele",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8139397,
+          64.2744985
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Ojan Rauta Oulainen",
+        "street": "Nurmelankatu 4",
+        "postcode": "86300",
+        "city": "Oulainen",
+        "address": "Nurmelankatu 4, 86300 Oulainen",
+        "phone": "044 799 7200",
+        "website": "https://www.k-rauta.fi/myymalat/ojan-rauta-oulainen",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4935371,
+          64.6844861
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Ojan Rauta Raahe",
+        "street": "Rakentajankatu 2",
+        "postcode": "92100",
+        "city": "Raahe",
+        "address": "Rakentajankatu 2, 92100 Raahe",
+        "phone": "0447997500",
+        "website": "https://www.k-rauta.fi/myymalat/ojan-rauta-raahe",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7309238,
+          60.8137012
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Orimattila",
+        "street": "Vesitornintie 1",
+        "postcode": "16300",
+        "city": "Orimattila",
+        "address": "Vesitornintie 1, 16300 Orimattila",
+        "phone": "050 470 8550",
+        "website": "https://www.k-rauta.fi/myymalat/orimattila",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.781235,
+          61.4805886
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Otra Nekala",
+        "street": "Viinikankatu 38",
+        "postcode": "33800",
+        "city": "Tampere",
+        "address": "Viinikankatu 38, 33800 Tampere",
+        "phone": "0105377111",
+        "website": "https://www.k-rauta.fi/myymalat/otranekala",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9757208,
+          60.2363984
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Oulunkylä",
+        "street": "Käskynhaltijantie 10",
+        "postcode": "00640",
+        "city": "Helsinki",
+        "address": "Käskynhaltijantie 10, 00640 Helsinki",
+        "phone": "0447006500",
+        "website": "https://www.k-rauta.fi/myymalat/oulunkyla",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6855588,
+          60.4578266
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Paimio",
+        "street": "Vistantie 8",
+        "postcode": "21530",
+        "city": "Paimio",
+        "address": "Vistantie 8, 21530 Paimio",
+        "phone": "0105052500",
+        "website": "https://www.k-rauta.fi/myymalat/paimio",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7158403,
+          62.2862442
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Palokka, Jyväskylä",
+        "street": "Saarijärventie 50-52",
+        "postcode": "40270",
+        "city": "Palokka",
+        "address": "Saarijärventie 50-52, 40270 Palokka",
+        "phone": "0403101300",
+        "website": "https://www.k-rauta.fi/myymalat/palokka",
+        "location_status": "myymala_osuma_tarkistettava",
+        "coordinate_source": "OpenStreetMap / Nominatim (K-Rauta-niminen kohde)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.008059941515125,
+          62.00003724707961
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Parkano",
+        "street": "Teollisuustie 21",
+        "postcode": "39700",
+        "city": "Parkano",
+        "address": "Teollisuustie 21, 39700 Parkano",
+        "phone": "03 311 93 800",
+        "website": "https://www.k-rauta.fi/myymalat/parkano",
+        "location_status": "kayttajan_kartalta_antama",
+        "coordinate_source": "Käyttäjän toimittamat koordinaatit (ei erikseen vahvistettu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9333313,
+          60.2120427
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Pasila PRO Center, yritysasiakkaat",
+        "street": "Veturitie 27",
+        "postcode": "00240",
+        "city": "Helsinki",
+        "address": "Veturitie 27, 00240 Helsinki",
+        "phone": "044 700 6500",
+        "website": "https://www.k-rauta.fi/myymalat/pasila",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1084072,
+          60.3847215
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Passeli",
+        "street": "Myllyojankatu 11",
+        "postcode": "24100",
+        "city": "Salo",
+        "address": "Myllyojankatu 11, 24100 Salo",
+        "phone": "0403066200",
+        "website": "https://www.k-rauta.fi/myymalat/passeli",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1608654,
+          62.2930671
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Pieksämäki",
+        "street": "Selkiöntie 2",
+        "postcode": "76100",
+        "city": "Pieksämäki",
+        "address": "Selkiöntie 2, 76100 Pieksämäki",
+        "phone": "0403101500",
+        "website": "https://www.k-rauta.fi/myymalat/pieksamaki",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7604676,
+          63.2342633
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Pielavesi",
+        "street": "Puustellintie 26",
+        "postcode": "72400",
+        "city": "Pielavesi",
+        "address": "Puustellintie 26, 72400 Pielavesi",
+        "phone": "0403000830",
+        "website": "https://www.k-rauta.fi/myymalat/pielavesi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7191265,
+          63.6727003
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Pietarsaari",
+        "street": "Fabriksgatan 1",
+        "postcode": "68600",
+        "city": "Pietarsaari",
+        "address": "Fabriksgatan 1, 68600 Pietarsaari",
+        "phone": "0207430571",
+        "website": "https://www.k-rauta.fi/myymalat/pietarsaari",
+        "location_status": "myymala_osuma_tarkistettava",
+        "coordinate_source": "OpenStreetMap / Nominatim (K-Rauta-niminen kohde)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.80299,
+          61.4697905
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Pori",
+        "street": "Satakunnankatu 39",
+        "postcode": "28130",
+        "city": "Pori",
+        "address": "Satakunnankatu 39, 28130 Pori",
+        "phone": "026313300",
+        "website": "https://www.k-rauta.fi/myymalat/pori",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6042851,
+          60.39115
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Porvoo",
+        "street": "Ratsumestarinkatu 3",
+        "postcode": "06100",
+        "city": "Porvoo",
+        "address": "Ratsumestarinkatu 3, 06100 Porvoo",
+        "phone": "019534300",
+        "website": "https://www.k-rauta.fi/myymalat/porvoo",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.981618,
+          65.3583874
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Pudasjärvi",
+        "street": "Tuotantotie 1",
+        "postcode": "93100",
+        "city": "Pudasjärvi",
+        "address": "Tuotantotie 1, 93100 Pudasjärvi",
+        "phone": "0207528260",
+        "website": "https://www.k-rauta.fi/myymalat/pudasjarvi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.24514677267566,
+          61.355746335774434
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Pälkäne",
+        "street": "Kankaanmaantie 6",
+        "postcode": "36600",
+        "city": "Pälkäne",
+        "address": "Kankaanmaantie 6, 36600 Pälkäne",
+        "phone": "0207630840",
+        "website": "https://www.k-rauta.fi/myymalat/palkane",
+        "location_status": "kayttajan_kartalta_antama",
+        "coordinate_source": "Käyttäjän toimittamat koordinaatit (ei erikseen vahvistettu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5019664,
+          61.1384613
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Rauma",
+        "street": "Papinhaankatu 9",
+        "postcode": "26100",
+        "city": "Rauma",
+        "address": "Papinhaankatu 9, 26100 Rauma",
+        "phone": "0283870000",
+        "website": "https://www.k-rauta.fi/myymalat/rauma",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8121434,
+          61.1996508
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Rautapertti",
+        "street": "Kartanonkatu 12",
+        "postcode": "55120",
+        "city": "Imatra",
+        "address": "Kartanonkatu 12, 55120 Imatra",
+        "phone": "0207000300",
+        "website": "https://www.k-rauta.fi/myymalat/rautapertti",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7471265,
+          60.7240157
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Riihimäki",
+        "street": "Konepajankatu 1",
+        "postcode": "11710",
+        "city": "Riihimäki",
+        "address": "Konepajankatu 1, 11710 Riihimäki",
+        "phone": "0108208300",
+        "website": "https://www.k-rauta.fi/myymalat/riihimaki",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2470654,
+          61.515042
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Ristiina",
+        "street": "Yrittäjäntie 3",
+        "postcode": "52300",
+        "city": "Ristiina",
+        "address": "Yrittäjäntie 3, 52300 Ristiina",
+        "phone": "0447520000",
+        "website": "https://www.k-rauta.fi/myymalat/ristiina",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6922733,
+          66.4942649
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Rovaniemi",
+        "street": "Lampelankatu 20",
+        "postcode": "96320",
+        "city": "Rovaniemi",
+        "address": "Lampelankatu 20, 96320 Rovaniemi",
+        "phone": "0163311500",
+        "website": "https://www.k-rauta.fi/myymalat/rovaniemi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.910898,
+          60.1635872
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Ruoholahti",
+        "street": "Itämerenkatu 21",
+        "postcode": "00180",
+        "city": "Helsinki",
+        "address": "Itämerenkatu 21, 00180 Helsinki",
+        "phone": "0102491001",
+        "website": "https://www.k-rauta.fi/myymalat/ruoholahti",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.282444580186123,
+          62.69625274032286
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Saarijärvi",
+        "street": "Myllymäentie 2",
+        "postcode": "43100",
+        "city": "Saarijärvi",
+        "address": "Myllymäentie 2, 43100 Saarijärvi",
+        "phone": "0144114500",
+        "website": "https://www.k-rauta.fi/myymalat/saarijarvi",
+        "location_status": "kayttajan_kartalta_antama",
+        "coordinate_source": "Käyttäjän toimittamat koordinaatit (ei erikseen vahvistettu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9134368,
+          61.327166
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Sastamala",
+        "street": "Hopunkatu 9",
+        "postcode": "38200",
+        "city": "Sastamala",
+        "address": "Hopunkatu 9, 38200 Sastamala",
+        "phone": "0102302400",
+        "website": "https://www.k-rauta.fi/myymalat/sastamala",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9540349,
+          61.8723757
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Savonlinna",
+        "street": "Kartanonväylä 9",
+        "postcode": "57210",
+        "city": "Savonlinna",
+        "address": "Kartanonväylä 9, 57210 Savonlinna",
+        "phone": "0152235050",
+        "website": "https://www.k-rauta.fi/myymalat/savonlinna",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8099064,
+          62.7959335
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Seinäjoki",
+        "street": "Välskärinkatu 9",
+        "postcode": "60320",
+        "city": "Seinäjoki",
+        "address": "Välskärinkatu 9, 60320 Seinäjoki",
+        "phone": "06 420 7600",
+        "website": "https://www.k-rauta.fi/myymalat/seinajoki",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7798046,
+          62.2636746
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Seppälä",
+        "street": "Ahjokatu 15",
+        "postcode": "40320",
+        "city": "Jyväskylä",
+        "address": "Ahjokatu 15, 40320 Jyväskylä",
+        "phone": "0403533330",
+        "website": "https://www.k-rauta.fi/myymalat/seppala",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6612389,
+          63.070897
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Siilinjärvi",
+        "street": "Tarinantie 2",
+        "postcode": "71800",
+        "city": "Siilinjärvi",
+        "address": "Tarinantie 2, 71800 Siilinjärvi",
+        "phone": "0172646120",
+        "website": "https://www.k-rauta.fi/myymalat/siilinjarvi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3217605,
+          60.4364664
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Skanssi",
+        "street": "Mustionkatu 1",
+        "postcode": "20750",
+        "city": "Turku",
+        "address": "Mustionkatu 1, 20750 Turku",
+        "phone": "02-2600 600",
+        "website": "https://www.k-rauta.fi/myymalat/skanssi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5824636,
+          67.4273797
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Sodankylä",
+        "street": "Sumatie 2",
+        "postcode": "99600",
+        "city": "Sodankylä",
+        "address": "Sumatie 2, 99600 Sodankylä",
+        "phone": "0103466260",
+        "website": "https://www.k-rauta.fi/myymalat/sodankyla",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.51471634866555,
+          60.63429679371193
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Somero",
+        "street": "Turuntie 1",
+        "postcode": "31400",
+        "city": "Somero",
+        "address": "Turuntie 1, 31400 Somero",
+        "phone": "02779300",
+        "website": "https://www.k-rauta.fi/myymalat/somero",
+        "location_status": "kayttajan_antama_koordinaatti",
+        "coordinate_source": "Käyttäjän ilmoittama karttakoordinaatti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9002855,
+          64.8884455
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Suomussalmi",
+        "street": "Risteentie 1",
+        "postcode": "89600",
+        "city": "Suomussalmi",
+        "address": "Risteentie 1, 89600 Suomussalmi",
+        "phone": "0104409100",
+        "website": "https://www.k-rauta.fi/myymalat/suomussalmi",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.090036,
+          62.6344742
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Suonenjoki",
+        "street": "Lintikonkatu 15",
+        "postcode": "77600",
+        "city": "Suonenjoki",
+        "address": "Lintikonkatu 15, 77600 Suonenjoki",
+        "phone": "0505790213",
+        "website": "https://www.k-rauta.fi/myymalat/suonenjoki",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.683848,
+          61.5024206
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Sysmä",
+        "street": "Sysmäntie 42",
+        "postcode": "19700",
+        "city": "Sysmä",
+        "address": "Sysmäntie 42, 19700 Sysmä",
+        "phone": "0447350500",
+        "website": "https://www.k-rauta.fi/myymalat/sysma",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4502344,
+          59.9812704
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Tammisaari",
+        "street": "Pehr Sommarin katu 6",
+        "postcode": "10600",
+        "city": "Tammisaari",
+        "address": "Pehr Sommarin katu 6, 10600 Tammisaari",
+        "phone": "019223443",
+        "website": "https://www.k-rauta.fi/myymalat/tammisaari",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.183094396826633,
+          65.84571511184156
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Tornio",
+        "street": "Virkamaankatu 10",
+        "postcode": "95420",
+        "city": "Tornio",
+        "address": "Virkamaankatu 10, 95420 Tornio",
+        "phone": "0103966800",
+        "website": "https://www.k-rauta.fi/myymalat/tornio",
+        "location_status": "kayttajan_antama_koordinaatti",
+        "coordinate_source": "Käyttäjän ilmoittama karttakoordinaatti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7659652,
+          62.2503502
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Tourutorni",
+        "street": "Tourulantie 15",
+        "postcode": "40100",
+        "city": "Jyväskylä",
+        "address": "Tourulantie 15, 40100 Jyväskylä",
+        "phone": "0207446700",
+        "website": "https://www.k-rauta.fi/myymalat/tourutorni",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5790205,
+          61.0715902
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Urjala",
+        "street": "Salmentie 255",
+        "postcode": "31760",
+        "city": "Urjala",
+        "address": "Salmentie 255, 31760 Urjala",
+        "phone": "0207229040",
+        "website": "https://www.k-rauta.fi/myymalat/urjala",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8321574,
+          64.5569044
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Vaala",
+        "street": "Vaalantie 4",
+        "postcode": "91700",
+        "city": "Vaala",
+        "address": "Vaalantie 4, 91700 Vaala",
+        "phone": "0104222420",
+        "website": "https://www.k-rauta.fi/myymalat/vaala",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6353063,
+          63.0981135
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Vaasa",
+        "street": "Myllärinkatu 1-3",
+        "postcode": "65100",
+        "city": "Vaasa",
+        "address": "Myllärinkatu 1-3, 65100 Vaasa",
+        "phone": "0207989300",
+        "website": "https://www.k-rauta.fi/myymalat/vaasa",
+        "location_status": "myymala_osuma_tarkistettava",
+        "coordinate_source": "OpenStreetMap / Nominatim (K-Rauta-niminen kohde)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.05590602906132,
+          61.265656216866105
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Valkeakoski",
+        "street": "Sammonkatu 19",
+        "postcode": "37600",
+        "city": "Valkeakoski",
+        "address": "Sammonkatu 19, 37600 Valkeakoski",
+        "phone": "0207630850",
+        "website": "https://www.k-rauta.fi/myymalat/valkeakoski",
+        "location_status": "kayttajan_antama_koordinaatti",
+        "coordinate_source": "Käyttäjän ilmoittama karttakoordinaatti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9536881,
+          60.2946354
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Vantaanportti",
+        "street": "Silvastintie 2",
+        "postcode": "01510",
+        "city": "Vantaa",
+        "address": "Silvastintie 2, 01510 Vantaa",
+        "phone": "09825550",
+        "website": "https://www.k-rauta.fi/myymalat/vantaanportti",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8266651,
+          62.3349366
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Varkaus",
+        "street": "Valssikuja 4",
+        "postcode": "78200",
+        "city": "Varkaus",
+        "address": "Valssikuja 4, 78200 Varkaus",
+        "phone": "0400997369",
+        "website": "https://www.k-rauta.fi/myymalat/varkaus",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9994732,
+          63.7428317
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Vieremä",
+        "street": "Vieremäntie 6",
+        "postcode": "74200",
+        "city": "Vieremä",
+        "address": "Vieremäntie 6, 74200 Vieremä",
+        "phone": "0505790204",
+        "website": "https://www.k-rauta.fi/myymalat/vierema",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8653474,
+          63.0888617
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Viitasaari",
+        "street": "Kauppakaari 3",
+        "postcode": "44500",
+        "city": "Viitasaari",
+        "address": "Kauppakaari 3, 44500 Viitasaari",
+        "phone": "0403000850",
+        "website": "https://www.k-rauta.fi/myymalat/viitasaari",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7755758,
+          62.2414058
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Virrat",
+        "street": "Meijeritie 16",
+        "postcode": "34800",
+        "city": "Virrat",
+        "address": "Meijeritie 16, 34800 Virrat",
+        "phone": "0207790285",
+        "website": "https://www.k-rauta.fi/myymalat/virrat",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4895551,
+          65.0281026
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Välivainio",
+        "street": "Korjaamontie 1",
+        "postcode": "90530",
+        "city": "Oulu",
+        "address": "Korjaamontie 1, 90530 Oulu",
+        "phone": "0445215700",
+        "website": "https://www.k-rauta.fi/myymalat/valivainio",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.239311415353963,
+          63.13014382455816
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Vöyri",
+        "street": "Larvvägen 53",
+        "postcode": "66600",
+        "city": "Vöyri",
+        "address": "Larvvägen 53, 66600 Vöyri",
+        "phone": "063843400",
+        "website": "https://www.k-rauta.fi/myymalat/voyri",
+        "location_status": "kayttajan_antama_koordinaatti",
+        "coordinate_source": "Käyttäjän ilmoittama karttakoordinaatti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5629876,
+          64.0602013
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Ylivieska",
+        "street": "Kettukallionkatu 1",
+        "postcode": "84100",
+        "city": "Ylivieska",
+        "address": "Kettukallionkatu 1, 84100 Ylivieska",
+        "phone": "084109300",
+        "website": "https://www.k-rauta.fi/myymalat/ylivieska",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5603525,
+          61.5553094
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Ylöjärvi",
+        "street": "Vaihtotie 6-8",
+        "postcode": "33470",
+        "city": "Ylöjärvi",
+        "address": "Vaihtotie 6-8, 33470 Ylöjärvi",
+        "phone": "033458900",
+        "website": "https://www.k-rauta.fi/myymalat/ylojarvi",
+        "location_status": "myymala_osuma_tarkistettava",
+        "coordinate_source": "OpenStreetMap / Nominatim (K-Rauta-niminen kohde)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1042792,
+          62.5549133
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Ähtäri",
+        "street": "Jokenkuja 4",
+        "postcode": "63700",
+        "city": "Ähtäri",
+        "address": "Jokenkuja 4, 63700 Ähtäri",
+        "phone": "042410501",
+        "website": "https://www.k-rauta.fi/myymalat/ahtari",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4665327,
+          64.9852988
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Äimärautio",
+        "street": "Äimätie 2",
+        "postcode": "90400",
+        "city": "Oulu",
+        "address": "Äimätie 2, 90400 Oulu",
+        "phone": "085500500",
+        "website": "https://www.k-rauta.fi/myymalat/aimarautio",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7026675,
+          62.6017997
+        ]
+      },
+      "properties": {
+        "name": "K-Rauta Äänekoski",
+        "street": "Rahastajantie 1",
+        "postcode": "44100",
+        "city": "Äänekoski",
+        "address": "Rahastajantie 1, 44100 Äänekoski",
+        "phone": "0145495400",
+        "website": "https://www.k-rauta.fi/myymalat/aanekoski",
+        "location_status": "osoite_vahvistettu",
+        "coordinate_source": "OpenStreetMap / Nominatim"
+      }
+    }
+  ]
+}
