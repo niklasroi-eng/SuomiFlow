@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[21.701357897928258,63.07317513820508]},"properties":{"name":"Hartman Vaasa","chain":"Hartman","address":"Elementtitehtaantie 2, Vaasa","type":"myymälä","website":"https://www.hartman.fi/fi/yhteystiedot"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[22.86955162859754,62.78858079119455]},"properties":{"name":"Hartman Seinäjoki","chain":"Hartman","address":"Teollisuustie 9, Seinäjoki","type":"myymälä","website":"https://www.hartman.fi/fi/yhteystiedot"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[22.70765771331804,63.68770276834922]},"properties":{"name":"Hartman Pietarsaari","chain":"Hartman","address":"Pohjanlahdentie 40, Pietarsaari","type":"myymälä","website":"https://www.hartman.fi/fi/yhteystiedot"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[23.114379693109637,63.83585928471874]},"properties":{"name":"Hartman Kokkola","chain":"Hartman","address":"Tervahovintie 9, Kokkola","type":"myymälä","website":"https://www.hartman.fi/fi/yhteystiedot"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[23.876841785797087,61.4832059339039]},"properties":{"name":"Hartman Tampere","chain":"Hartman","address":"Uurastajankatu 3, Tampere","type":"noutopiste","website":"https://www.hartman.fi/fi/yhteystiedot"}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[24.766103482384267,60.292106529870786]},"properties":{"name":"Hartman Espoo","chain":"Hartman","address":"Juvanmalmintie 15, Espoo","type":"noutopiste","website":"https://www.hartman.fi/fi/yhteystiedot"}}
+  ]
+}
