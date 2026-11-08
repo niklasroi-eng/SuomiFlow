@@ -1,0 +1,491 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7605487,
+          60.1796769
+        ]
+      },
+      "properties": {
+        "name": "STARK Espoo Olari",
+        "chain": "STARK",
+        "address": "Olarinluoma 15, 02200 Espoo",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "Stark Espoo Olarinluoma, 15, Olarinluoma, Niittykumpu, Olari, Suur-Tapiola, Espoo, Helsingin seutukunta, Uusimaa, Manner-Suomi, 02200, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0449753,
+          60.1955751
+        ]
+      },
+      "properties": {
+        "name": "STARK Helsinki Herttoniemi",
+        "chain": "STARK",
+        "address": "Sahaajankatu 6, 00880 Helsinki",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "laastit ja harkot, 6, Sahaajankatu, Herttoniemen yritysalue, Herttoniemi, Kaakkoinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00880, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8579481,
+          60.235154
+        ]
+      },
+      "properties": {
+        "name": "STARK Helsinki Konala",
+        "chain": "STARK",
+        "address": "Ristipellontie 1, 00390 Helsinki",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "Stark Konala, 1, Ristipellontie, Konala, Läntinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00390, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0195126,
+          60.2828809
+        ]
+      },
+      "properties": {
+        "name": "STARK Helsinki Suutarila",
+        "chain": "STARK",
+        "address": "Valokaari 6, 00750 Helsinki",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "6, Valokaari, Siltamäki, Suutarila, Koillinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00750, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4810157,
+          60.989306
+        ]
+      },
+      "properties": {
+        "name": "STARK Hämeenlinna",
+        "chain": "STARK",
+        "address": "Kantolankatu 3, 13110 Hämeenlinna",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "STARK, 3, Kantolankatu, Kantola, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 13110, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7669624,
+          62.6215575
+        ]
+      },
+      "properties": {
+        "name": "STARK Joensuu",
+        "chain": "STARK",
+        "address": "Kaltimontie 9, 80100 Joensuu",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "Stark, 9, Kaltimontie, Käpykangas, Joensuun kantakaupunki, Joensuu, Joensuun seutukunta, Pohjois-Karjala, Manner-Suomi, 80100, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7728622,
+          62.2495858
+        ]
+      },
+      "properties": {
+        "name": "STARK Jyväskylä",
+        "chain": "STARK",
+        "address": "Aholaidantie 10, 40320 Jyväskylä",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "Stark Jyväskylä, 10, Aholaidantie, Aholaita, Halssila, Jyväskylä, Jyväskylän seutukunta, Keski-Suomi, Manner-Suomi, 40320, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.770631,
+          64.2216449
+        ]
+      },
+      "properties": {
+        "name": "STARK Kajaani",
+        "chain": "STARK",
+        "address": "Lankkukuja 2, 87400 Kajaani",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "2, Lankkukuja, Kesäniemi, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87400, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8951867,
+          60.4973744
+        ]
+      },
+      "properties": {
+        "name": "STARK Kotka",
+        "chain": "STARK",
+        "address": "Saukonkatu 5, 48230 Kotka",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "Stark, 5, Saukonkatu, Korela, Kyminkartano, Kotka, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, 48230, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6086633,
+          62.8646298
+        ]
+      },
+      "properties": {
+        "name": "STARK Kuopio",
+        "chain": "STARK",
+        "address": "Suvannontie 12, 70780 Kuopio",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "12, Suvannontie, Neulalampi, Kuopio, Kuopion seutukunta, Pohjois-Savo, Manner-Suomi, 70780, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6474669,
+          60.9539409
+        ]
+      },
+      "properties": {
+        "name": "STARK Lahti Laune",
+        "chain": "STARK",
+        "address": "Ansiokatu 3, 15610 Lahti",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "Stark, 3, Ansiokatu, Nikkilä, Lahti, Lahden seutukunta, Päijät-Häme, Manner-Suomi, 15610, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2031834,
+          61.040921
+        ]
+      },
+      "properties": {
+        "name": "STARK Lappeenranta",
+        "chain": "STARK",
+        "address": "Myllymäenkatu 14, 53550 Lappeenranta",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "14, Myllymäenkatu, Ojala-Tuomela, Myllymäki, Lappeenranta, Lappeenrannan seutukunta, Etelä-Karjala, Manner-Suomi, 53550, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1218233,
+          60.2743265
+        ]
+      },
+      "properties": {
+        "name": "STARK Lohja",
+        "chain": "STARK",
+        "address": "Lehmijärventie 6, 08500 Lohja",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "6, Lehmijärventie, Vesitorni, Lohja, Helsingin seutukunta, Uusimaa, Manner-Suomi, 08500, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.28735394942259,
+          61.67483565322376
+        ]
+      },
+      "properties": {
+        "name": "STARK Mikkeli",
+        "chain": "STARK",
+        "address": "Pursialankatu 16, 50100 Mikkeli",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "KÄSIN_ANNNETTU",
+        "geocode_result": "Käyttäjän antamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5111701,
+          65.0383854
+        ]
+      },
+      "properties": {
+        "name": "STARK Oulu",
+        "chain": "STARK",
+        "address": "Hautakorventie 8, 90620 Oulu",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "Stark, 8, Hautakorventie, Hiltusenperä, Takalaanila, Puolivälinkangas, Oulu, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, 90620, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7492781,
+          61.4898963
+        ]
+      },
+      "properties": {
+        "name": "STARK Pori",
+        "chain": "STARK",
+        "address": "Tikkulantie 4, 28100 Pori",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "4, Tikkulantie, Tikkula, Pori, Porin seutukunta, Satakunta, Manner-Suomi, 28100, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6877363,
+          66.4947595
+        ]
+      },
+      "properties": {
+        "name": "STARK Rovaniemi",
+        "chain": "STARK",
+        "address": "Suosiolantie 8, 96320 Rovaniemi",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "8, Suosiolantie, Santamäki, Rovaniemi, Rovaniemen seutukunta, Lappi, Manner-Suomi, 96320, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8397119,
+          62.7978539
+        ]
+      },
+      "properties": {
+        "name": "STARK Seinäjoki",
+        "chain": "STARK",
+        "address": "Rengastie 12, 60120 Seinäjoki",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "Stark, 12, Rengastie, Kantakaupunki, Seinäjoki, Seinäjoen seutukunta, Etelä-Pohjanmaa, Manner-Suomi, 60120, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.870086587512752,
+          61.480475744078674
+        ]
+      },
+      "properties": {
+        "name": "STARK Tampere Hankkio",
+        "chain": "STARK",
+        "address": "Pyhäojankulma 3, 33700 Tampere",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "KÄSIN_ANNNETTU",
+        "geocode_result": "Käyttäjän antamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.652635477731447,
+          61.52202092660439
+        ]
+      },
+      "properties": {
+        "name": "STARK Tampere Lielahti",
+        "chain": "STARK",
+        "address": "Turvesuonkatu 21, 33400 Tampere",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "KÄSIN_ANNNETTU",
+        "geocode_result": "Käyttäjän antamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7853423,
+          61.4793574
+        ]
+      },
+      "properties": {
+        "name": "STARK Tampere Nekala",
+        "chain": "STARK",
+        "address": "Kuoppamäentie 4, 33800 Tampere",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "Stark Nekala, 4, Kuoppamäentie, Vihioja, Keskustan suuralue, Tampere, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, 33800, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1755654,
+          60.4598543
+        ]
+      },
+      "properties": {
+        "name": "STARK Turku Artukainen",
+        "chain": "STARK",
+        "address": "Tillerinkatu 4, 20240 Turku",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "4, Tillerinkatu, Artukainen, Pansio-Jyrkkälä, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 21260, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3245051,
+          60.4335669
+        ]
+      },
+      "properties": {
+        "name": "STARK Turku Skanssi",
+        "chain": "STARK",
+        "address": "Biolinja 19, 20750 Turku",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "19, Biolinja, Biolaakso, Lauste, Varissuo-Lauste, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20730, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0281421,
+          60.3731929
+        ]
+      },
+      "properties": {
+        "name": "STARK Tuusula",
+        "chain": "STARK",
+        "address": "Majavantie 5, 04320 Tuusula",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "STARK Tuusula, 5, Majavantie, Amer, Sula, Tuusula, Helsingin seutukunta, Uusimaa, Manner-Suomi, 04320, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.649193858793613,
+          63.10588413286119
+        ]
+      },
+      "properties": {
+        "name": "STARK Vaasa",
+        "chain": "STARK",
+        "address": "Kivihaantie 2, 65300 Vaasa",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "KÄSIN_ANNNETTU",
+        "geocode_result": "Käyttäjän antamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8369568,
+          60.2860024
+        ]
+      },
+      "properties": {
+        "name": "STARK Vantaa Martinlaakso",
+        "chain": "STARK",
+        "address": "Voimalantie 4, 01620 Vantaa",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "Stark, 4, Voimalantie, Martinlaakson teollisuusalue, Martinlaakso, Myyrmäen suuralue, Vantaa, Helsingin seutukunta, Uusimaa, Manner-Suomi, 01620, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8064997,
+          60.2770266
+        ]
+      },
+      "properties": {
+        "name": "STARK Vantaa Petikko",
+        "chain": "STARK",
+        "address": "Tiilipojanlenkki 7, 01720 Vantaa",
+        "website": "https://www.stark-suomi.fi/myymalat",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "Stark Vantaa Petikko, 7, Tiilipojanlenkki, Petikon yritysalue, Petikko, Myyrmäen suuralue, Vantaa, Helsingin seutukunta, Uusimaa, Manner-Suomi, 01720, Suomi / Finland"
+      }
+    }
+  ]
+}
