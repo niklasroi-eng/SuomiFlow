@@ -1,0 +1,918 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.864745877780383,
+          60.953951634221966
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Alastaro",
+        "company": "Alastaron Rakennustarvike Oy",
+        "address": "Loimijoentie 81, 32440 Alastaro",
+        "website": "https://www.rautanet.fi/myymalat/alastaron-rakennustarvike-oy",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1609606,
+          62.7853831
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Eno",
+        "company": "O A Vinni Oy",
+        "address": "Enontie 20, 81200 Eno",
+        "website": "https://www.rautanet.fi/myymalat/vinnin-rauta-ky",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.47804664731112,
+          63.36864243784068
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Evijärvi",
+        "company": "Rakennustarvikeliike Laukkonen Oy",
+        "address": "Kirkkotie 31, 62500 Evijärvi",
+        "website": "https://www.rautanet.fi/myymalat/rakennustarvikeliike-laukkonen-oy",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3669708,
+          64.1466394
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Haapavesi",
+        "company": "Laaksojen Rauta Oy",
+        "address": "Laitakalliontie 2, 86600 Haapavesi",
+        "website": "https://www.rautanet.fi/myymalat/laaksojen-rauta-oy-haapavesi",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.57253909148796,
+          61.17310348457923
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Hauho",
+        "company": "TeeJii Rauta Oy",
+        "address": "Yritystie 1, 14700 Hauho",
+        "website": "https://www.rautanet.fi/myymalat/hauhon-puu-ja-rauta",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.04570619518311,
+          61.212257166452424
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Heinola",
+        "company": "Rauta-Juurikkala Oy",
+        "address": "Villenkatu 42, 18200 Heinola",
+        "website": "https://www.rautanet.fi/myymalat/rauta-juurikkala-oy",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.07154938779282,
+          61.753982030206316
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Ikaalinen",
+        "company": "Ikaalisten Rakennustarvike Oy",
+        "address": "Kolmen Airon Katu 15, 39500 Ikaalinen",
+        "website": "https://www.rautanet.fi/myymalat/ikaalisten-rakennustarvike",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7433862,
+          61.1840812
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Imatra",
+        "company": "Imatran Vaneri ja Kaluste",
+        "address": "Sukkulakatu 13, 55120 Imatra",
+        "website": "https://www.rautanet.fi/myymalat/imatran-vaneri-ja-kaluste",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11262961108545,
+          61.74138501236119
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Joutsa",
+        "company": "Rautakauppala Oy",
+        "address": "Länsitie 4, 19650 Joutsa",
+        "website": "https://www.rautanet.fi/myymalat/rautakauppala-oy",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4855773,
+          61.1137196
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Joutseno",
+        "company": "HKS Sähkö- ja kiinteistöpalvelu Oy",
+        "address": "Teollisuustie 8, 54100 Joutseno",
+        "website": "https://www.rautanet.fi/myymalat/hks-sahko--ja-kiinteistopalvelu-oy",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7574516,
+          63.9768608
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Kärsämäki",
+        "company": "Laaksojen Rauta Oy",
+        "address": "Keskuskatu 8, 86710 Kärsämäki",
+        "website": "https://www.rautanet.fi/myymalat/laaksojen-rauta-oy",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7974776,
+          62.874643
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Karstula",
+        "company": "Rautanet Karstula",
+        "address": "Hanskintie 2, 43500 Karstula",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-karstula",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0553418,
+          63.1024516
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Kauhava",
+        "company": "M & T Erkinheimo Oy",
+        "address": "Heimolankuja 9, 62200 Kauhava",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-kauhava",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.739853360805018,
+          60.16526881278776
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Kemiönsaari",
+        "company": "Ab Engelsby Verk-Engelsbyn Tehtaat Oy",
+        "address": "Sågvägen 7 a, 25700 Kemiönsaari",
+        "website": "https://www.rautanet.fi/myymalat/ab-engelsby-verkengelsbyn-tehtaat-oy",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.978420345463544,
+          63.370147971476435
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Kinnula",
+        "company": "Rautis Oy",
+        "address": "Ammestie 3, 43900 Kinnula",
+        "website": "https://www.rautanet.fi/myymalat/kinnulan-rakennus-ja-sisustus-oy",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.90835963594523,
+          67.6566080010193
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Kittilä",
+        "company": "RautiXet / Kittilä",
+        "address": "Valtatie 37, 99100 Kittilä",
+        "website": "https://www.rautanet.fi/myymalat/rautixet-kittila",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8286733,
+          67.3460758
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Kolari",
+        "company": "RautiXet / Kolari",
+        "address": "Hallitie 1, 95900 Kolari",
+        "website": "https://www.rautanet.fi/myymalat/rautixet-kolari",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2947936491587,
+          62.62748879410864
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Konnevesi",
+        "company": "Rautanet Konnevesi",
+        "address": "Vainiontie 2, 44300 Konnevesi",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-konnevesi",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.13915094361597,
+          60.651177552683556
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Koski TL",
+        "company": "Rautanet-Koski Oy",
+        "address": "Hongistontie 3, 31500 Koski TL",
+        "website": "https://www.rautanet.fi/myymalat/rautanetkoski-oy",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.367377906829436,
+          62.28311814030883
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Kristiinankaupunki",
+        "company": "Rautanet Kristiinankaupunki",
+        "address": "Hevoshaantie 4, 64100 Kristiinankaupunki",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-kristiinankaupunki",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.010450389640386,
+          61.07818162960194
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Lammi",
+        "company": "Rautanet Lammi",
+        "address": "Huovintie 1, 16900 Lammi",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-lammi",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3870373,
+          62.5327387
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Liperi",
+        "company": "Timon Rautakauppa Oy",
+        "address": "Varolantie 6, 83750 Liperi",
+        "website": "https://www.rautanet.fi/myymalat/timon-rautakauppa-oy",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4364145,
+          60.7200464
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Loppi",
+        "company": "Eräloppi Oy",
+        "address": "Kauppatie 11, 12700 Loppi",
+        "website": "https://www.rautanet.fi/myymalat/eraloppi-oy",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5051851,
+          61.8602567
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Merikarvia",
+        "company": "Rautanet Merikarvia",
+        "address": "Kauppatie 49, 29900 Merikarvia",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-merikarvia",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3906386,
+          62.476932
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Närpes",
+        "company": "Sand Marketing Oy Ab",
+        "address": "Tegelbruksvägen 8, 64200 Närpes",
+        "website": "https://www.rautanet.fi/myymalat/sand-marketing-oy-ab",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5033998,
+          61.2942413
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Narva",
+        "company": "Narvan Rauta ja Maatalous Oy",
+        "address": "Latomaantie 3, 37370 Narva",
+        "website": "https://www.rautanet.fi/myymalat/narvan-rauta-ja-maatalous-oy",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.979063325866058,
+          60.184361024545396
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Nauvo",
+        "company": "Oy Pract Ab",
+        "address": "Ampumaradantie 18, 21650 Nauvo",
+        "website": "https://www.rautanet.fi/myymalat/oy-pract-ab-nauvo",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.378769022731777,
+          63.30445875907851
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Oravainen",
+        "company": "Oy OstroCenter Ab",
+        "address": "Kokkolantie 30, 66800 Oravainen",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-oravainen",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.243526865061035,
+          61.3486701522567
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Padasjoki",
+        "company": "Rautanet Padasjoki",
+        "address": "Sähkötie 2, 17500 Padasjoki",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-padasjoki",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.310724647311126,
+          60.299120890114814
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Parainen",
+        "company": "Oy Pract Ab",
+        "address": "Runeberginkatu 1, 21600 Parainen",
+        "website": "https://www.rautanet.fi/myymalat/oy-pract-ab",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.960038411085453,
+          66.76496735374097
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Pello",
+        "company": "RautiXet / Pello",
+        "address": "Pellontie 1, 95700 Pello",
+        "website": "https://www.rautanet.fi/myymalat/rautixet-pello",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1193372,
+          62.2924175
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Pieksämäki",
+        "company": "Ysirauta",
+        "address": "Helmintie 1, 76150 Pieksämäki",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-pieksamaki-ysirauta",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5727573,
+          63.3690565
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Pihtipudas",
+        "company": "Pihtiputaan Rauta ja Väri Oy",
+        "address": "Kolimantie 2, 44800 Pihtipudas",
+        "website": "https://www.rautanet.fi/myymalat/pihtiputaan-rauta-ja-vari-oy",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.634146530122077,
+          60.4019948803297
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Porvoo",
+        "company": "Simolin Oy Ab",
+        "address": "Simolinintie 3, 06100 Porvoo",
+        "website": "https://www.rautanet.fi/myymalat/simolin-oy-ab",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7509952,
+          62.2710961
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Rääkkylä",
+        "company": "Kaupparinne Oy",
+        "address": "Kauppatie 8, 82335 Rääkkylä",
+        "website": "https://www.rautanet.fi/myymalat/kaupparinne-oy",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.528116931969645,
+          65.92627728713153
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Ranua",
+        "company": "Rautaheikkinen Ky",
+        "address": "Aapiskuja 2, 97700 Ranua",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-ranua-rautaheikkinen-ky",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.103199395743978,
+          60.37071397553733
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Salo",
+        "company": "Rautanet Salo",
+        "address": "Satamakatu 40, 24100 Salo",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-salo",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9156263,
+          61.3287882
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Sastamala",
+        "company": "Rautarasti Oy",
+        "address": "Trakinkatu 7-9, 38200 Sastamala",
+        "website": "https://www.rautanet.fi/myymalat/rautarasti-oy",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA",
+        "geocode_result": "7, Trakinkatu, Hoppu, Vammala, Sastamala, Lounais-Pirkanmaan seutukunta, Pirkanmaa, Manner-Suomi, 38200, Suomi / Finland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2807468,
+          60.2700361
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Sipoo",
+        "company": "Vesterskog Byggnadsmaterial Kb",
+        "address": "Uusi Porvoontie 729, 01120 Sipoo",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-sipoo",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.820199182250082,
+          62.5588552310214
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Suolahti",
+        "company": "Ramin LVI ja Rauta Oy",
+        "address": "Aatulantie 36, 44200 Suolahti",
+        "website": "https://www.rautanet.fi/myymalat/ramin-lvi-ja-rauta-oy",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.586567189640384,
+          60.37891606298918
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Suomusjärvi",
+        "company": "Rautanet Suomusjärvi",
+        "address": "Kitulanramppi 2, 25410 Suomusjärvi",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-suomusjarvi",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.45709532771363,
+          59.982306242103306
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Tammisaari",
+        "company": "Ekenäs TräVaruhus",
+        "address": "Pehr Sommarin katu 14, 10600 Tammisaari",
+        "website": "https://www.rautanet.fi/myymalat/ekenas-travaruhus",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.992107391977132,
+          62.08283264150962
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Toivakka",
+        "company": "Teekon Oy",
+        "address": "Läsäntie 6, 41660 Toivakka",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-toivakka",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.63414288779281,
+          61.86992850928929
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Tuorila",
+        "company": "Konetuorila Oy",
+        "address": "Harjuntie 5, 29790 Tuorila",
+        "website": "https://www.rautanet.fi/myymalat/konetuorila-oy",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.539881755262297,
+          63.54060284889868
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Uusikaarlepyy",
+        "company": "Oy OstroCenter Ab",
+        "address": "Pietarsaarentie 36, 66900 Uusikaarlepyy",
+        "website": "https://www.rautanet.fi/myymalat/oy-ostrocenter-ab",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.783545768756188,
+          60.91616410352143
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Valkeala",
+        "company": "Valkealan Saha Oy",
+        "address": "Teollisuustie 26-28, 45360 Valkeala",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-valkeala---valkealan-saha-oy",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.85486441108545,
+          62.30323792728488
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Varkaus",
+        "company": "Rautanet Varkaus",
+        "address": "Ryytimaankatu 1, 78850 Varkaus",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-varkaus",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8637852,
+          63.0895523
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Viitasaari",
+        "company": "Rautanet Viitasaari",
+        "address": "Kauppakaari 1, 44500 Viitasaari",
+        "website": "https://www.rautanet.fi/myymalat/rautanet-viitasaari",
+        "chain": "Rautanet",
+        "geocode_status": "OSOITEOSUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.707140066908604,
+          60.58416071893709
+        ]
+      },
+      "properties": {
+        "name": "Rautanet Virolahti",
+        "company": "Raskilan Kone ja Rauta Oy",
+        "address": "Virojoentie 17 B, 49900 Virolahti",
+        "website": "https://www.rautanet.fi/myymalat/raskilan-kone-ja-rauta-oy",
+        "chain": "Rautanet",
+        "geocode_status": "MANUAALINEN",
+        "geocode_result": "Käyttäjän Google Mapsista toimittamat koordinaatit"
+      }
+    }
+  ]
+}
